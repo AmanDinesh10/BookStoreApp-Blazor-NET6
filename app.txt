@@ -2,3 +2,7 @@ Scaffold-DbContext 'Data Source=localhost;Initial Catalog=BookStoreDb;Integrated
 
 AutoMapper CreateMap
 ProjectTo
+
+IdentityUser -> Main user table
+IdentityRole -> Role table
+UserManager
