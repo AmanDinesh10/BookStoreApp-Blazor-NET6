@@ -1,1 +1,4 @@
 Scaffold-DbContext 'Data Source=localhost;Initial Catalog=BookStoreDb;Integrated Security=True;Pooling=False' Microsoft.EntityFrameworkCore.SqlServer -ContextDir Data -OutputDir Data
+
+AutoMapper CreateMap
+ProjectTo
